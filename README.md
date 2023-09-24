@@ -4,7 +4,7 @@ Do not use the AngularCLI directly (unless the environment variables are created
 
 ### Content Used
 * Boostrap
-* API-Giphy
+* Mapbox
 
 ## Technologies
 A list of technologies used within the project:
@@ -14,7 +14,7 @@ A list of technologies used within the project:
 </p>
 
 ## Introduction
-The project consumes a gifs api that searches, queries and displays the results on screen
+El proyecto utiliza la librería de mapbox para consumir un mapa y agregar marcadores 
 
 ## Steps
 
